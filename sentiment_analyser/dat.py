@@ -3,5 +3,20 @@ comments = [
     "This is the worst experience I've ever had.",
     "Not bad, but could be better.",
     "Absolutely fantastic service!",
-    "I would not recommend this to anyone."
+    "I would not recommend this to anyone.",
+    "The quality exceeded my expectations.",
+    "Very disappointing, I expected much more.",
+    "It's okay, nothing special.",
+    "I am extremely satisfied with my purchase.",
+    "The customer support was slow and unhelpful.",
+    "Great value for the price.",
+    "I regret buying this product.",
+    "It works as advertised.",
+    "Outstanding experience from start to finish.",
+    "Mediocre at best.",
+    "I would definitely buy this again.",
+    "The product arrived damaged.",
+    "Simple, efficient, and reliable.",
+    "Not worth the money.",
+    "I'm pleasantly surprised by the performance."
 ]
